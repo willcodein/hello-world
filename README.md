@@ -1,2 +1,5 @@
 # hello-world
-hello world first repo
+
+Ayup All,
+
+Web developer starting up GitHub
